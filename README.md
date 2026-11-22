@@ -10,3 +10,11 @@ Human scientific author: Gabriel St-Pierre, independent researcher. Material AI 
     python src/check_zenodo_metadata.py
 
 Direct original parent: [D67 tag](https://github.com/Topbrutus/polybrutus-d67/tree/v0.1.0), DOI 10.5281/zenodo.24432937, peeled SHA dad596e38305066e4cb1207bb8fc947779eb445e. See [provenance](PROVENANCE.md), [proof](PREUVE_D68.md), [specification](SPECIFICATION_D68.md), [PDF](publication/POLYBRUTUS_68D_NOTE.pdf), [certificate](results/certificate_d68.json). MIT software, CC BY 4.0 manuscript. Not independently human peer-reviewed.
+
+## Official Zenodo publication
+
+- DOI: [10.5281/zenodo.24433099](https://doi.org/10.5281/zenodo.24433099) — [public record](https://zenodo.org/records/24433099).
+- Immutable scientific tag v0.1.0, peeled commit a431c711973df7ea1e14489ad0699b4b715d745f.
+- Main scientific CI: https://github.com/Topbrutus/polybrutus-d68/actions/runs/44982198901 (success).
+- Tag scientific CI: https://github.com/Topbrutus/polybrutus-d68/actions/runs/44982238354 (success).
+- Three original files verified in two separate public API reads by filename, byte size and MD5 against SHA256-verified originals. Nine keywords, two references and isDerivedFrom D67 verified.
